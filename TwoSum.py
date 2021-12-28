@@ -1,4 +1,6 @@
 //Two sum-https://leetcode.com/problems/two-sum/
+//Runtime: 632 ms
+//Memory Usage: 14.8 MB
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         x=[]

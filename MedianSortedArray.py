@@ -1,4 +1,6 @@
 //Median of Two Sorted Arrays-https://leetcode.com/problems/median-of-two-sorted-arrays/
+//Runtime: 92 ms
+//Memory Usage: 14.5 MB
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         nums1=nums1+nums2
